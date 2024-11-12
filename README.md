@@ -11,6 +11,9 @@ To write a program to implement the back end of the compiler.
 5. Target code for the given statement is produced.
 6. Stop the program.
 # PROGRAM
+NAME: PRAVEEN.V
+
+REGISTER NO:212222233004
 ## exp6.c
 ```c
 #include <stdio.h> 
